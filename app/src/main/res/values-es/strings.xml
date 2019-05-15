@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Péndulo doble</string>
+    <string name="angle">Ángulo (°)</string>
+    <string name="check_inputs">Verifica tus entradas</string>
+    <string name="error">Error</string>
+    <string name="friction">Fricción</string>
+    <string name="gravity_m_s">Gravedad (m/s²)</string>
+    <string name="length_m">Longitud (m)</string>
+    <string name="mass_kg">Masa (kg)</string>
+    <string name="start">Empezar</string>
+    <string name="stop">Parar</string>
+    <string name="velocity_s">Velocidad (°/s)</string>
+    <string name="length2_m">Longitud 2 (m)</string>
+    <string name="mass2_kg">Masa 2 (kg)</string>
+    <string name="angle2">Ángulo 2 (°)</string>
+</resources>

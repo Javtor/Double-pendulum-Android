@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Double Pendulum</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="mass_kg">Mass (kg)</string>
+    <string name="gravity_m_s">Gravity (m/s²)</string>
+    <string name="velocity_s">Velocity (°/s)</string>
+    <string name="friction">Friction</string>
+    <string name="angle">Angle (°)</string>
+    <string name="length_m">Length (m)</string>
+    <string name="error">Error</string>
+    <string name="check_inputs">Check your inputs</string>
+    <string name="icon_credits" translatable="false">Icon made by Smashicons from www.flaticon.com</string>
+    <string name="length2_m">Length 2 (m)</string>
+    <string name="mass2_kg">Mass 2 (kg)</string>
+    <string name="angle2">Angle 2 (°)</string>
+</resources>
